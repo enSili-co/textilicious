@@ -218,10 +218,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #481d52 0%, #8f2e80 100%);
-  background-image: -webkit-linear-gradient(135deg, #481d52 0%, #8f2e80 100%);
-  background-image: -ms-linear-gradient(135deg, #481d52 0%, #8f2e80 100%);
-  background-image: linear-gradient(135deg, #481d52 0%, #8f2e80 100%);
+  background-image: -moz-linear-gradient(135deg, #ef6366 0%, #ff9258 100%);
+  background-image: -webkit-linear-gradient(135deg, #ef6366 0%, #ff9258 100%);
+  background-image: -ms-linear-gradient(135deg, #ef6366 0%, #ff9258 100%);
+  background-image: linear-gradient(135deg, #ef6366 0%, #ff9258 100%);
 }
 
 .tagline {
@@ -254,10 +254,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #ff9258;
-  background: -moz-linear-gradient(top, #ef6366 0%, #ff9258 100%);
-  background: -webkit-linear-gradient(top, #ef6366 0%, #ff9258 100%);
-  background: linear-gradient(to bottom, #ef6366 0%, #ff9258 100%);
+  color: #8f2e80;
+  background: -moz-linear-gradient(top, #481d52 0%, #8f2e80 100%);
+  background: -webkit-linear-gradient(top, #481d52 0%, #8f2e80 100%);
+  background: linear-gradient(to bottom, #481d52 0%, #8f2e80 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -282,10 +282,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #ff9258;
-  background: -moz-linear-gradient(top, #ef6366 0%, #ff9258 100%);
-  background: -webkit-linear-gradient(top, #ef6366 0%, #ff9258 100%);
-  background: linear-gradient(to bottom, #ef6366 0%, #ff9258 100%);
+  color: #8f2e80;
+  background: -moz-linear-gradient(top, #481d52 0%, #8f2e80 100%);
+  background: -webkit-linear-gradient(top, #481d52 0%, #8f2e80 100%);
+  background: linear-gradient(to bottom, #481d52 0%, #8f2e80 100%);
   top: 0;
   bottom: 0;
   left: 0;
